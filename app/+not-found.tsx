@@ -14,7 +14,7 @@ export default function NotFound() {
     );
 }
 
-const style = StyleSheet.create({
+const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "#25292e",
